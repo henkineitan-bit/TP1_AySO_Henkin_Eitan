@@ -1,1 +1,2 @@
 Usuario=vagrant
+model name	: AMD Ryzen 5 8600G w/ Radeon 760M Graphics
