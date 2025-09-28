@@ -1,0 +1,291 @@
+mkdir nuevo_dir_1 nuevo_dir_2 nuevo_dir_3
+dir
+mkdir -p dir1/dir2/dir3/dir4
+mkdir -p {dir1,dir2}/subdir{1..3}
+mkdir -p {dir1/subdir{1..3},dir2/{subdir1..3},otrodir}}
+pwd
+mkdir clase4
+cd clase4
+sudo apt install tree
+snap install tree
+tree
+snap intstall tree
+asss
+a
+sudo apt install treevagrant hltvagrant halt
+pwd
+mkdir clase4
+sudo apt install tree
+sudo snap install tree
+tree
+vagrant halt
+exit
+pwd
+tree
+clear
+whoami
+id
+/etc/passwd
+cat /etc/passwd
+clase4$
+$clase4
+grep vagrant  /etc/passwd
+clear
+cat /etc/group
+id
+clear
+useradd -m -s /bin/bash -c"esto es un comentario" User1
+groupadd Alumnos
+sudo useradd -m -s /bin/bash -c"esto es un comentario" User1
+sudo groupadd Alumnos
+sudo useradd -m -s /bin/bash -c"esto es un comentario" User0 -G Alumnos
+cat /etc/group
+cat/etc/passwd
+cat /etc/passwd
+clear
+ls -l /home
+sudo passwd User0
+sudo su User0
+ls -l
+echo Hola Pepe
+ls -l
+clear
+w
+su - User0
+clear
+groupadd ventas
+goup groupadd ventas
+sudo groupadd ventas
+clear
+su - pepe
+su - user0
+su - User0
+sudo usermod -G sudo User0
+su User0
+mkdir clase5
+cd clase5
+ls -l
+touch practica1.txt
+touch practica2.txt
+ls -l
+chmod 600
+chmod 600 pratica1.txt
+sudo chmod 600 pratica1.txt
+cdcdex
+texi
+clear
+chmod 600 practica1.txt
+chmod 400 practica2.txt
+ls - l
+ls -l
+chmod 444 practica2.txt
+chmod 600 pratica1.txtchchcgfsddfsfdsdcdccvnsdighbfhaaadddddddddddddddddddddddddddddddddddddddddd777777   ttitititiiiiuiia
+chmod 777 practica2.txtexit
+exit
+sudo su
+exit
+cd clase5
+chmod 777 practica2.txt
+ls -l
+mkdir repogit
+exit
+mkdir repogit
+ls -l
+exit
+$HOME
+/home
+cd ls -l
+ssh-keygen -t
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+echo "ls -l | gre`sh" > scrip1
+echo "ls -l | gre`sh" > script1
+echo "ls -l | grep sh" > script1
+cat script1
+mkdir clase6
+cd clase6
+touch practica.txt
+ls -l
+echo ls -l > cript1
+ls -l
+echo ls -l > script1
+ls -l
+cat script1
+bash script1
+clean
+clear
+vim script2.sh
+ls -l
+cat script2
+cat script2.sh
+sudo ./script2.sh
+./script2.sh
+script2.sh 777
+chmod script2.sh 777
+chmod ./script2.sh 777
+chmod 777 ./script2.sh
+chmod 775 /script2.sh
+chmod 775 script2.sh
+ls -l
+vim script2.sh
+ls -l
+clear
+[200~mkdir -p ~/materia{1,2}/uni{1,2,3}
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+cd home
+cd $HOME
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+ls -l
+mkdir Tp_AySO
+cd Tp_Ayso
+ls -l
+cd clase5
+cd $HOME
+$HOME.bash_history
+$HOME/.bash_history
+history
+clear
+mkdir
+cd clase6
+mkdir
+clear
+cd $HOME
+cat /etc/passwd | grep bash 
+cd repogit
+ld -l
+ls -
+ls -l
+tree
+clear
+game
+clear
+vagrant halt
+exit
+vagrant ssh
+$home
+sudo
+ls -l
+Cd repogit
+cd repogit
+git clone git@github.com:henkineitan-bit/TP1_AySO_Henkin_Eitan.git
+cd T
+mkdir TP_AySO
+cd T
+ls -l
+cd T
+cd repogit
+git clone git@github.com:henkineitan-bit/TP1_AySO_Henkin_Eitan.git
+cd T
+pwd
+ls -l
+cd TP1_AySO_Henkin_Eitan
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-realease
+i- grep HOME_URL /etc/os-realease
+-i grep HOME_URL /etc/os-realease
+-i grep home_url /etc/os-realease
+grep home_url /etc/os-realease
+grep -1 Home_url /etc/os-realease
+grep -1 Home_url /etc/os-realease > datos_url.txt
+clear
+cat /etc/os-release
+man grep
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -1 home_url /etc/os-release
+grep -i home_url /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+git add .
+git config --global user.email "henkin.eitan@gmail.com"
+git config --global user.email "henkineitan-bit"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git config --global user.email "henkin.eitan@gmail.com"
+git config --global user.name "henkineitan-bit"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+clear
+grep
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+ls -l
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo informacion de CPU"
+git push
+cat <<EOF>> README.md
+Alumno: Henkin Alejandro Eitan
+Division: 113
+Turno: Turno Mañana
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+$home
+cd home
+cd $HOME
+ls -l
+chmod +x script_dir.sh
+ls -l
+echo script_dir.sh
+ls -l
+ls -l script_dir.sh
+chmod 755 script_dir.sh
+#!/bin/bash script_dir.sh
+ls -l
+master
+ls -la
+chmod 755 script_dir.sh
+whoami
+.
+./
+ls
+ls -l
+ls -la
+mkdir carpeta
+ls -la
+touch script_dir.sh
+ls -la
+chmod 755 script_dir.sh
+ls -la
+git add .
+cd materia1
+cd $HOME
+mkdir -p {materia1,materia2}/{uni1,uni2,uni3} && touch script_dir.sh
+ls -la
+clear
+git add .
+ls -la
+/home
+$HOME
+echo $HOME
+/home/vagrant
+cd /home
+mkdir -p {materia1,materia2}/{uni1,uni2,uni3} && touch script_dir.sh
+sudo mkdir -p {materia1,materia2}/{uni1,uni2,uni3} && touch script_dir.sh
+sudo su mkdir -p {materia1,materia2}/{uni1,uni2,uni3} && touch script_dir.sh
+sudo mkdir -p {materia1,materia2}/{uni1,uni2,uni3} && sudo touch script_dir.sh
+git add .
+cd 
+cd Tp_AySO
+git add .
+ls -la
+ls -l
+cd
+ls -l
+repogit
+cd repogit
+ls -l
+cd TP1_AySO_Henkin_Eitan
+ls -la
+$HOME
+sudo mkdir -p $HOME/{materia1,materia2}/{uni1,uni2,uni3} && sudo touch $HOME/script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
